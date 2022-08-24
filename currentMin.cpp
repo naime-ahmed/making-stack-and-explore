@@ -1,4 +1,4 @@
-// Current MInimum Print problem solving using stack
+// Current MInimum Print problem solved using stack
 
 #include <bits/stdc++.h>
 #include "myStack.h"
